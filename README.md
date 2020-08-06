@@ -1,4 +1,4 @@
 # hello-world2
-test depository
+test repository
 
 making edits
